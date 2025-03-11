@@ -1,5 +1,8 @@
+from gui.program import run_program
+
+
 def main():
-    print("Hello from experimetal-synth!")
+    run_program()
 
 
 if __name__ == "__main__":
